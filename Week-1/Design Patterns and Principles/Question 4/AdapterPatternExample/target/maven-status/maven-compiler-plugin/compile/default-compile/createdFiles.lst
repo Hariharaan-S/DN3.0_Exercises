@@ -1,6 +1,0 @@
-com\mycompany\adapterpatternexample\StripePaymentAdapter.class
-com\mycompany\adapterpatternexample\StripeGateway.class
-com\mycompany\adapterpatternexample\RazorPayAdapter.class
-com\mycompany\adapterpatternexample\PaymentProcessor.class
-com\mycompany\adapterpatternexample\RazorPayGateway.class
-com\mycompany\adapterpatternexample\AdapterPatternExample.class
