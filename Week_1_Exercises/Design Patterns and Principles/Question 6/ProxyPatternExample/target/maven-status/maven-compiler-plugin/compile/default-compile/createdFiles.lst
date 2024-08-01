@@ -1,0 +1,4 @@
+com\mycompany\proxypatternexample\ProxyPatternExample.class
+com\mycompany\proxypatternexample\RealImage.class
+com\mycompany\proxypatternexample\Image.class
+com\mycompany\proxypatternexample\ProxyImage.class

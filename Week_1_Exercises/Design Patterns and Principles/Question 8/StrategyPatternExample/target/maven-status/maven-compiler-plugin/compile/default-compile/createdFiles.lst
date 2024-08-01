@@ -1,0 +1,5 @@
+com\mycompany\strategypatternexample\PaymentContext.class
+com\mycompany\strategypatternexample\PaymentStrategy.class
+com\mycompany\strategypatternexample\PayPalPayment.class
+com\mycompany\strategypatternexample\CreditCardPayment.class
+com\mycompany\strategypatternexample\StrategyPatternExample.class

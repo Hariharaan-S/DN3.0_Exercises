@@ -1,0 +1,6 @@
+D:\Cognizant Digital Nurture\Week 1\Design Patterns and Principles\Question 4\AdapterPatternExample\src\main\java\com\mycompany\adapterpatternexample\PaymentProcessor.java
+D:\Cognizant Digital Nurture\Week 1\Design Patterns and Principles\Question 4\AdapterPatternExample\src\main\java\com\mycompany\adapterpatternexample\StripeGateway.java
+D:\Cognizant Digital Nurture\Week 1\Design Patterns and Principles\Question 4\AdapterPatternExample\src\main\java\com\mycompany\adapterpatternexample\StripePaymentAdapter.java
+D:\Cognizant Digital Nurture\Week 1\Design Patterns and Principles\Question 4\AdapterPatternExample\src\main\java\com\mycompany\adapterpatternexample\RazorPayAdapter.java
+D:\Cognizant Digital Nurture\Week 1\Design Patterns and Principles\Question 4\AdapterPatternExample\src\main\java\com\mycompany\adapterpatternexample\RazorPayGateway.java
+D:\Cognizant Digital Nurture\Week 1\Design Patterns and Principles\Question 4\AdapterPatternExample\src\main\java\com\mycompany\adapterpatternexample\AdapterPatternExample.java
